@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    /* background-color: paleturquoise; */
+    background-image: url(img/100x100.gif);
+    color: cadetblue;
+    
+}
+
+div {
+    background-color: rgb(197, 119, 197);
+    color: rgb(82, 10, 66);
+    width: 66%;
+    height: 400px;
+    /* position: absolute;
+    left: 100px;
+    top: 200px; */
+    border: 5px purple solid;
+    padding: 30px;
+    margin: 50px;
+}
